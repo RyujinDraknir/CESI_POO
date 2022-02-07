@@ -14,6 +14,16 @@ namespace CESI_POO_Ex3
             Console.WriteLine(student);
             Console.WriteLine();
             Console.WriteLine(teacher);
+            Console.ReadLine();
+            Console.Clear();
+
+
+            Person studentPerson = (Person) student;
+            Person teacherPerson = (Person) teacher;
+
+            Console.WriteLine(studentPerson);
+            Console.WriteLine();
+            Console.WriteLine(teacherPerson);
 
         }
     }

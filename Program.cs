@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CESI_POO.Model;
+using System;
 
 namespace CESI_POO
 {
@@ -6,7 +7,13 @@ namespace CESI_POO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Language frLanguage = new Language("Français", "fr");
+            Language enLanguage = new Language("English", "en");
+            User user = new User("MICHEL", "Ronaldo", frLanguage);
+
+            user.PrintUser();
+            user.SetLanguage(enLanguage);
+            user.PrintUser();
         }
     }
 }

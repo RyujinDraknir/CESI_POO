@@ -2,12 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/CESI_POO/v16
-/CESI_POO_Ex1/.vs/CESI_POO
-/CESI_POO_Ex1/bin/Debug/net5.0
-/CESI_POO_Ex1/obj
-/CESI_POO_Ex2/.vs
-/CESI_POO_Ex2/bin/Debug/net5.0
-/CESI_POO_Ex2/obj
-/CESI_POO_Ex3/bin/Debug/net5.0
-/CESI_POO_Ex3/obj
+obj
+bin
+.vs

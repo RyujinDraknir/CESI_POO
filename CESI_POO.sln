@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CESI_POO_Ex5", "CESI_POO_Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CESI_POO_Ex6", "CESI_POO_Ex6\CESI_POO_Ex6.csproj", "{FFD98C64-EBD6-4C3F-9E26-C51257C6A916}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CESI_POO_Ex7", "CESI_POO_Ex7\CESI_POO_Ex7.csproj", "{5D8C8539-7355-4054-9A80-B7B3400CFECF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FFD98C64-EBD6-4C3F-9E26-C51257C6A916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFD98C64-EBD6-4C3F-9E26-C51257C6A916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFD98C64-EBD6-4C3F-9E26-C51257C6A916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8C8539-7355-4054-9A80-B7B3400CFECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8C8539-7355-4054-9A80-B7B3400CFECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8C8539-7355-4054-9A80-B7B3400CFECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8C8539-7355-4054-9A80-B7B3400CFECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
